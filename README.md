@@ -192,11 +192,6 @@ localStorage.setItem('debug', 'true')
 
 ---
 
-## ⚡ License
-
-MIT — hack, fork, remix.
-
----
 
 ## 🙌 Thanks
 
